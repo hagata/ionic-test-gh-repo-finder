@@ -18,7 +18,7 @@ Add pages with the Ionic CLI
 ### Add Services
 Add services with the Ionic CLI
 ```
-ionic g provider MyData
+    ionic g provider MyData
 ```
 
 
